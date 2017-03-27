@@ -1,56 +1,24 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-# Your Capstone Project
+# Project-Template
 
 ## Overview
 
-**You’ve come a long way, and it's time to show it.** This will be your most
-advanced project to date, and if you put creativity into it, it'll hopefully
-be the thing you want to show off most prominently in your portfolio.
+**Here is a blurb about what the goal of this project is.** You are awesome. Here's what you're doing...
 
-**You get to call the shots and invent your own idea**, choosing a framework and
+**Here are the technologies you've learned**, choosing a framework and
 tools that are appropriate for what you want to build. Pull from everything
 you've learned so far, and **tackle something that'll push you a little
 outside of your comfort zone**.
-
-Make sure you review your project proposal with your instructor so you can make
-sure it's **something you can accomplish in the limited time we have**, and make
-sure it's **something that'll be impressive visually**. Sometimes people do
-judge a book by its cover – or an app by its design.
 
 ## Technical Requirements
 
 Your app must:
 
--   **Build a full-stack application** by making your own backend and your own
-    front-end
--   **Have an API of your design**
--   Any data that can be updated or deleted must be user owned and protected _or_ controlled by an [ACL](https://en.wikipedia.org/wiki/Access_control_list) (An ACL is a stretch goal).
--   **Have an interactive front-end**, preferably using a modern front-end
-    framework
--   **Be a complete product**, which most likely means multiple relationships
-    and CRUD functionality for at least a couple models
--   **Use a database**, whether that's one we've covered in class or one you
-    want to learn
--   **Implement thoughtful user stories** that are significant enough to help
-    you know which features to build and which to scrap
--   **Have a visually impressive design** to kick your portfolio up a notch and
-    have something to wow future clients and employers
--   **Be deployed online** so it's publicly accessible
--   **Not** have any obvious user facing errors.
-
 ## Necessary Deliverables
-
-### Planning Requirements
-
-On the _first day_ of project worktime, you must
-    commit:
-- A client README with user stories and wireframes
-- An api README with an ERD
-
-### Daily Requirements
-- You must have _at least_ one commit on _either_ your client or api repo for
-each day of project worktime.
+-   link to planning reqs
+-   link to project reqs
+-   link to standing reqs
 
 ### Other Deliverables
 -   A **working API**, hosted somewhere on the internet
